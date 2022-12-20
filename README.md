@@ -1,2 +1,2 @@
-# Kronometre2
+# Kronometre
 Timer
